@@ -1,1 +1,1 @@
-print("Hello learning")
+print("Hello learning SQL")
